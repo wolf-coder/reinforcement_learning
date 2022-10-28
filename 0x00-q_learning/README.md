@@ -1,5 +1,5 @@
 # 0x00. Q-learning
-## Learning_Objectives
+## Learning Objectives
 - What is a Markov Decision Process?
 - What is an environment?
 - What is an agent?
