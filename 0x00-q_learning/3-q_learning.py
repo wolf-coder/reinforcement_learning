@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Q-learning"""
+"""
+performing Q-learning
+"""
 import numpy as np
 epsilon_greedy = __import__('2-epsilon_greedy').epsilon_greedy
 
