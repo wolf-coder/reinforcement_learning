@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+Testing: playing an episode.
 """
 import numpy as np
 
